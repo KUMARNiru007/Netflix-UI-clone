@@ -263,11 +263,12 @@ nav img {
   justify-content: center;
   align-items: center;
   gap: 15px;
+  flex-wrap:wrap;
 }
 
 .feat-card {
-  width: 400px;
-  height: 300px;
+  width: 280px;
+  height: 280px;
   background: 
   linear-gradient(175deg, #071855, #28142d);
   padding: 20px;
